@@ -1,3 +1,0 @@
-[submodule "Software/CommonFunctions/Arduino-7Segment"]
-	path = Software/CommonFunctions/Arduino-7Segment
-	url = git@github.com:leo3oel/Arduino-7Segment.git
